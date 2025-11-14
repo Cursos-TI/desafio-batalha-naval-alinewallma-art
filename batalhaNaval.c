@@ -113,7 +113,6 @@ int main() {
 }
 */
 
-/* APENAS PARA REGISTRO QUE FOI REALIZADO
     // Nível Mestre - Habilidades Especiais com Matrizes
     // Criado matrizes para representar habilidades especiais como cone, cruz, e octaedro.
     // Utilizando estruturas de repetição aninhadas para preencher as áreas afetadas por essas habilidades no tabuleiro.
